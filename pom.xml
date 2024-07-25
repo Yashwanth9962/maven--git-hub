@@ -8,6 +8,7 @@
   <artifactId>my-web-app</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
+  <yashwanth>Hello</yashwanth>
 
   <name>my-web-app Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
